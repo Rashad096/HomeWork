@@ -1,0 +1,15 @@
+Kompüter proqramlaşdırması bu gün yaşadığımız rəqəmsal dövrün əsasını təşkil edir. Hər dəfə sosial şəbəkələrdə hansısa əməliyyat edərkən,mail göndərərkən, telefonumuzda hər hansısa funksiyanı işlədərkən programlaşdırma dili arxa planda öz işini görür.
+
+ İlk programlaşdırma dili 1843 ildə Ada Lovrans tərəfindən hesablama maşını üçün bir kağiz parçasında alqoritm sistemi ixtira etmişdir, və onun dövründə bu bir kağız parcasindan başqa bir şey deyildi, çünki o zamanlar komputerlər istesal olunmurdu. Onun ixtira etdiyi maşın alqoritmi bu günki programlaşdırma dillərin fundamenti sayılır.
+
+İİ dünya müharibəsi sona çatmaq ərəfəsində Konrad Züse ilk real ‘’Plankakül’’ adinda proqramlaşdırma dili irəli sürmüşdür. Bu dil bəzi prosedurlari, ki icində var olan kicik kodlar təkrar təkrar cağırıb, bəzi sadə əməliyyatları həyata keçirə bilirdi.
+Sonralar Asembler programlaşdırma dili insanların maşın dilini anlaması ücün yaradilan asanlaşdırılmış aşaöı səviə dili hesab edilir. 
+Və modern i programlaşdırma dilləri təbiki üstün səviyə dilləri hesab edilir. Python; Java; JavaScript; C++; C# və s.
+
+Amma əvvəlcə bütün bu progmalşdirma dillərini tətbiq etmək ücün bizə komputer lazimdir. Sadəcə komputer kifayət deyil və bu komputerin daxilində Driver olmalidir. Bu səbələ komputerə Software lazimdir.
+Ümumi desək Software komputeri işə salıb onda müəyyən əməliyyatlar aparmaq ücün programlardan ibarət bir sistemdir.
+Microsoft, Mac, Linux kimi serverlər komputeri idarə etmək ucun Sistemdir.
+Telefonda muəyyən əməiyatlar ücün mobile software mövcuddur: Android, İos və s.
+ Progrmalşdirma dilləri arasında en popular olan Python zənnimcə ən oyrənmasi asand və keyfiyətdi dildir, həm high level, sintaksisi cətin olmayan dildir.
+ Java isə zənnimcə cox funksional və informasiyanin kodlanmasi ücün en uyqun backend dilidir.
+HTML/CSS sayt yaradılmasında mühüm rolu var cünki ən sadə izahla sayta gördüyümüz hər nə varsa, bu forntend dilləri üzərində yazılıb.
